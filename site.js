@@ -97,8 +97,13 @@ const vue_app = Vue.createApp({
       }
       return `${monthText} ${day}${suffix}, ${year}`;
     },
-
+    posterClick: function() {
+      if (movies.posterindex > movies.posters.length - 1)
+           movies.posterindex = 0;
+      else 
+           movies.posterindex++;
   },
+},
 });
 
 vue_app.mount("#vue_app");
