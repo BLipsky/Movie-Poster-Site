@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Interstellar",
+            "iscore": 8.7,
+            "rating": "PG-13",
+            "runtime": 169,
+            "released": [2014, 12, 6],
+            "country": "USA",
+            "posters": ["img/interstellar.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/",
+            "website": "https://interstellar.com/",
+            "likes": 1512,
+            "dislikes": 10,
+            "posterindex": 0
+      },
+      {
+            "title": "Revenge of the Sith",
+            "iscore": 7.6,
+            "rating": "PG-13",
+            "runtime": 140,
+            "released": [2005, 5, 19],
+            "country": "USA",
+            "posters": ["img/episodeiii.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0121766/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_revenge%2520of%2520the%2520sith",
+            "website": "https://starwars.fandom.com/wiki/Star_Wars:_Episode_III_Revenge_of_the_Sith",
+            "likes": 490,
+            "dislikes": 96,
+            "posterindex": 0
+      },
+      {
+            "title": "Avengers: Endgame",
+            "iscore": 8.4,
+            "rating": "PG-13",
+            "runtime": 181,
+            "released": [2019, 4, 26],
+            "country": "USA",
+            "posters": ["img/endgame.jpg"],
+            "imdb": "https://www.imdb.com/title/tt4154796/?ref_=fn_all_ttl_1",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 8912,
+            "dislikes": 0,
+            "posterindex": 0
       }
 ]
